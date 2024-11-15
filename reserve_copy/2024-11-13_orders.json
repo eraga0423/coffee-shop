@@ -1,0 +1,58 @@
+[
+  {
+    "order_id": "1",
+    "customer_name": "Jake",
+    "items": [
+      {
+        "product_id": "croissant",
+        "quantity": 1
+      }
+    ],
+    "status": "closed",
+    "created_at": "2024-11-13 17:23:07"
+  },
+  {
+    "order_id": "4",
+    "customer_name": "Jake",
+    "items": [
+      {
+        "product_id": "americano",
+        "quantity": 5
+      },
+      {
+        "product_id": "latte",
+        "quantity": 1
+      }
+    ],
+    "status": "closed",
+    "created_at": "2024-11-13 17:45:12"
+  },
+  {
+    "order_id": "5",
+    "customer_name": "John Doe",
+    "items": [
+      {
+        "product_id": "2",
+        "quantity": 1
+      }
+    ],
+    "status": "closed",
+    "created_at": "2024-11-13 19:05:39"
+  },
+  {
+    "order_id": "6",
+    "customer_name": "Jake",
+    "items": [
+      {
+        "product_id": "americano",
+        "quantity": 5
+      },
+      {
+        "product_id": "latte",
+        "quantity": 1
+      }
+    ],
+    "status": "closed",
+    "created_at": "2024-11-13 20:29:02"
+  }
+]
